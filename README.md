@@ -1,4 +1,4 @@
-# Gerador De Senhas Seguras com JavaScript
+# Gerador de senhas seguras com JavaScript
 
 # Sobre o projeto
 O projeto se trata de um aplicativo que gera senhas seguras de forma randômica. 
